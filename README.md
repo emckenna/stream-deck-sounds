@@ -27,4 +27,10 @@ WindowsKey-r, type cmd, enter; Opens "Command Prompt"
 `C:\path-to\stream-deck-sounds>silent-vlc.vbs "F:\twitch-assets\audio\Cheer!.mp3"`
 
 #### Disclaimer
-Run this at your own risk.  This isn't malicious in anyway, but 
+Run this at your own risk.  This isn't malicious in anyway, but just in case.
+
+#### And ...
+If you have any questions or comments.  You can create an issue on the repository if you want.
+PRs always welcome.
+
+OR hit me up on [ Twitch](http://twitch.tv/emackn) ;)
